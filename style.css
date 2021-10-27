@@ -1,0 +1,42 @@
+html {
+    background: #e3e3e3;
+}
+ul {
+    position: fixed; 
+    top: 0px; 
+    list-style-type: none;
+    margin: 0 2px; 
+    padding: 0;
+}
+body {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ margin: 40px;
+ color: rgb(0, 0, 0);
+ border-top: 10px solid rgb(0, 0, 0);
+ background: white;
+}
+table, th {
+border: 1px solid black;
+width: 100%;
+}
+h1 {
+font-size: 3em;
+margin: 0;
+text-align: center;
+}
+form {
+    border: solid lightblue;
+}
+p{
+line-height: 1.4em;
+}
+#blog {
+border-top: 1px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 1px dotted #ccc;
+}
+article {
+    border-bottom: 1px solid #000;
+}
