@@ -15,7 +15,7 @@ body {
  border-top: 10px solid rgb(0, 0, 0);
  background: white;
 }
-table, th {
+table, th, td {
 border: 1px solid black;
 width: 100%;
 }
