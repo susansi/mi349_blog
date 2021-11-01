@@ -34,11 +34,12 @@ article {
     border-bottom: 1px solid #000;
 }
 .img-museum {
-    max-width: 20%;
+    width: 200px;
+    height: auto;
 }
 .img-msu { 
-    height: 20px;
-    width: 30px;
+    height: 200px;
+    width: 300px;
     float: left;
     margin-left: 100px;
 }
