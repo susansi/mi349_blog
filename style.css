@@ -34,11 +34,11 @@ article {
     border-bottom: 1px solid #000;
 }
 
-.img-msu { 
+.figure { 
     float: left;
     margin-left: 50px;
+    width: 30%;
 }
-
 section{
     display: flex;
 }
