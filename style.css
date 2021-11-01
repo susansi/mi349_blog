@@ -35,7 +35,7 @@ article {
 }
 
 .figure { 
-    float: left;
+    float: none;
     margin-left: 50px;
     width: 30%;
 }
