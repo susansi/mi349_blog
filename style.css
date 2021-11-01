@@ -53,7 +53,7 @@ nav {
     background: lightcyan;
 }
 nav {
-    float: left;
+    float: initial;
     display: block;
     color: rgb(104, 104, 175);
     text-align: center;
