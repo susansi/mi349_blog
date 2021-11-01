@@ -34,8 +34,7 @@ article {
     border-bottom: 1px solid #000;
 }
 .img-museum {
-    width: 20px;
-    height: 30px;
+    max-width: 20%;
 }
 .img-msu { 
     height: 20px;
@@ -70,7 +69,6 @@ nav {
   }
   .sticky {
     position: sticky;
-    position: -webkit-sticky;
     top: 0;
   }
 ul {
@@ -78,9 +76,4 @@ ul {
 	margin-left: -0.5em;
 	margin-right: -0.5em;
 	padding: 0;
-}
-ul > li {
-	display: inline-block;
-	margin-left: 0.5em;
-	margin-right: 0.5em;
 }
