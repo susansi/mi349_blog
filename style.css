@@ -65,13 +65,13 @@ nav {
     top: 0;
     display: inline-block;
   }
-ul {
+.topbar {
 	list-style: none;
 	margin-left: -0.5em;
 	margin-right: -0.5em;
 	padding: 0;
 }
-ul > li{
+.topbar > li{
     display: inline-block;
 }
 
