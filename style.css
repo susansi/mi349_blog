@@ -3,7 +3,7 @@ html {
 }
 
 body {
- font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
  margin: 40px;
  color: rgb(0, 0, 0);
  border-top: 10px solid rgb(0, 0, 0);
@@ -33,20 +33,12 @@ border-top: 1px dotted #ccc;
 article {
     border-bottom: 1px solid #000;
 }
-.img-museum {
-    width: 200px;
-    height: auto;
-}
+
 .img-msu { 
-    height: 200px;
-    width: 300px;
     float: left;
-    margin-left: 100px;
+    margin-left: 50px;
 }
-.img-about {
-    width: 100px;
-    height: 100px;
-}
+
 section{
     display: flex;
 }
