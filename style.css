@@ -57,17 +57,21 @@ nav {
     display: block;
     color: rgb(104, 104, 175);
     text-align: center;
-    padding: 50px 50px;
+    padding: 20px 20px;
     font-size: 20px;
   }
   .sticky {
     position: sticky;
     top: 0;
+    display: inline-block;
   }
 ul {
 	list-style: none;
-    display: inline-block;
 	margin-left: -0.5em;
 	margin-right: -0.5em;
 	padding: 0;
 }
+ul > li{
+    display: inline-block;
+}
+
